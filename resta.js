@@ -1,4 +1,7 @@
 function resta(valorUno, valorDos){
     return valorUno - valorDos;
 }
-resta(15, 5)
+function calc(valor){
+    return console.log(valor);
+}
+calc(resta(560, 140))

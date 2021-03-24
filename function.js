@@ -1,3 +1,4 @@
-function holamundo(){
-    return console.log("Hola Mundo")
+function holamundo(valor){
+    return console.log(valor)
 }
+holamundo("hola mundo")
